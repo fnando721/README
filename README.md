@@ -1,6 +1,6 @@
 # Fernando Castro
 
-Desenvolvedor mobile natural de Salvador, Bahia, Brasil, graduado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá. Iniciei minha jornada profissional no campo do desenvolvimento no final de 2022, estou preparado para colaborar em projetos desafiadores e inovadores, buscando constantemente aprimorar minhas habilidades e ganhar mais conhecimento.
+Desenvolvedor mobile natural de Salvador, Bahia, Brasil, graduado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá. Iniciei minha jornada profissional na área do desenvolvimento no final de 2022, estou preparado para colaborar em projetos desafiadores e inovadores, buscando constantemente aprimorar minhas habilidades e ganhar mais conhecimento.
 
 
 # Github Status
